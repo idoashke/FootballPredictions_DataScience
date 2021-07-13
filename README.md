@@ -12,14 +12,14 @@ Match_Predict - the notebook with the match predict code, based on the chosen mo
 
 
 
-[embed]https://nbviewer.jupyter.org/github/idoashke/footballpredictions_datascience_project/blob/bb95f0210c175cd381a648ae0f8040877e6420f7/Presentation/Football_Predictions_Project_Presentation.pdf[/embed]
+[embed]https://nbviewer.jupyter.org/github/idoashke/footballpredictions_datascience_project/blob/bb95f0210c175cd381a648ae0f8040877e6420f7/Presentation/Football_Predictions_Project_Presentation.pdf
 
 
 
 
 [embed]Presentation/Football_Predictions_Project_Presentation.pdf[/embed]
 
-<embed src="/Presentation/Football_Predictions_Project_Presentation.pdf" type="application/pdf">
+<embed src="https://nbviewer.jupyter.org/github/idoashke/footballpredictions_datascience_project/blob/bb95f0210c175cd381a648ae0f8040877e6420f7/Presentation/Football_Predictions_Project_Presentation.pdf">
 
 <object data="/Presentation/Football_Predictions_Project_Presentation.pdf" type="application/pdf" width="100%">
 </object>
