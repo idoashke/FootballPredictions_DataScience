@@ -8,3 +8,7 @@ Machine_Learning - the notebook with the machine learning code.
 Date_Picker - the notebook with the date picker widget.
 
 Match_Predict - the notebook with the match predict code, based on the chosen model from 'Machine_Learning' notebook and the chosen match date from the "Date_Picker" notebook.
+
+
+
+[embed]http://example.com/file.pdf[/embed]
