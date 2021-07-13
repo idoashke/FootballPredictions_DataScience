@@ -5,7 +5,7 @@ Let's Predict!!! - the main notebook that runs all the project's notebooks by th
 
 Machine_Learning - the notebook with the machine learning code.
 
-Date_Picker - the notebook with the date picker widget.
+Date_Picker - the notebook with the date picker widget (doesn't work properly on Github).
 
 Match_Predict - the notebook with the match predict code, based on the chosen model from 'Machine_Learning' notebook and the chosen match date from the "Date_Picker" notebook.
 
