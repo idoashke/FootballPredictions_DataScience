@@ -1,7 +1,7 @@
 # Football Predictions Program - data science project
 
 Let's Predict!!! - the main notebook that runs all the project's notebooks by the right order.
-                   To start the program, please run this notebook.
+                   To use the program, please run this notebook.
 
 Machine_Learning - the notebook with the machine learning code.
 
