@@ -15,3 +15,6 @@ Match_Predict - the notebook with the match predict code, based on the chosen mo
 
 <embed src="/Presentation/Football_Predictions_Project_Presentation.pdf" type="application/pdf">
 
+<object data="/Presentation/Football_Predictions_Project_Presentation.pdf" type="application/pdf" width="100%">
+</object>
+
