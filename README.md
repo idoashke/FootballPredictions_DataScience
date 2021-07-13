@@ -9,6 +9,7 @@ Date_Picker - the notebook with the date picker widget.
 
 Match_Predict - the notebook with the match predict code, based on the chosen model from 'Machine_Learning' notebook and the chosen match date from the "Date_Picker" notebook.
 
+<a href="https://nbviewer.jupyter.org/github/idoashke/footballpredictions_datascience_project/blob/bb95f0210c175cd381a648ae0f8040877e6420f7/Presentation/Football_Predictions_Project_Presentation.pdf" alt=""></a>
 
 <embed src="https://nbviewer.jupyter.org/github/idoashke/footballpredictions_datascience_project/blob/bb95f0210c175cd381a648ae0f8040877e6420f7/Presentation/Football_Predictions_Project_Presentation.pdf" type="application/pdf">
 
