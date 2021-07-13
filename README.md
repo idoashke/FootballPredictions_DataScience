@@ -1,4 +1,4 @@
-# footballpredictions_datascience_project
+# Football Predictions Program - data science project
 
 Let's Predict!!! - the main notebook that runs all the project's notebooks by the right order.
                    To start the program, please run this notebook.
