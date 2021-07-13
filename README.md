@@ -22,6 +22,5 @@ Match_Predict - the notebook with the match predict code, based on the chosen mo
 
 <object data="/Presentation/Football_Predictions_Project_Presentation.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="/Presentation/Football_Predictions_Project_Presentation.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
     </embed>
 </object>
