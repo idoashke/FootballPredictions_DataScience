@@ -11,3 +11,16 @@ Match_Predict - the notebook with the match predict code, based on the chosen mo
 
 
 [Football Predictions Project Presentation.pdf](https://github.com/idoashke/footballpredictions_datascience_project/files/6814365/Football_Predictions_Project_Presentation.pdf)
+
+
+About the project:
+
+Python (using pandas, beautifulSoup, matplotlib, seaborn, sklearn, numpy etc), Jupyter notebook.
+
+Web crawling for collecting and obtaining the relevant data.
+
+Cleaning, formatting, and filtering the data.
+
+Visualizing and understanding the data.
+
+Statistical Modelling and Machine Learning techniques (Logistic Regression, Naive Bayes).
